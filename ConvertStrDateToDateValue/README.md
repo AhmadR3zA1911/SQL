@@ -1,6 +1,7 @@
 # ConvertStringDateToDateTime
 
 ConvertStringDateToDateTime is a SQL Func for Convert Text Date to Date
+
 این فانکشن تاریخ هایی که به صورت رشته ای در دیتابیس ذخیره شده باشد رو دریافت می کند و به صورت تاریخ معمولی خروجی می دهد.
 
 ## Installation
